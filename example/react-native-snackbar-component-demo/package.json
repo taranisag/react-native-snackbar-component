@@ -20,5 +20,8 @@
     "babel-preset-expo": "~9.5.2",
     "get-dev-paths": "^0.1.1"
   },
-  "private": true
+  "private": true,
+  "overrides": {
+    "shell-quote": "1.8.4"
+  }
 }
