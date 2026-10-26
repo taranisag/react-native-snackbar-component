@@ -22,6 +22,7 @@
   },
   "private": true,
   "overrides": {
-    "hermes-engine": "0.10.0"
+    "hermes-engine": "0.10.0",
+    "logkitty": "0.7.1"
   }
 }
